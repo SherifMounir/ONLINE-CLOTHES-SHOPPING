@@ -1,0 +1,103 @@
+.container 
+{
+   margin-top: 70px;
+}
+/*
+body
+{
+    padding-top: 15px;
+}
+*/
+
+.container ul li a
+{
+    font-size: 17px;
+    padding: 14px 0;
+    text-align: center;
+}
+.nav-justified
+{
+    background-color: #eee;
+}
+.container ul li a:hover
+{
+  background-color: cornflowerblue;
+}
+.container .jambotron ul li 
+{
+    list-style: none;
+    position: relative;
+   
+    
+}
+.container .jambotron ul li a
+{
+   
+    display: block;
+    color: black;
+    opacity: 100;
+    font-size: 100;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.jambotron
+{
+    text-align: center;
+    padding-top: 14px;
+    background-color: darkgray;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+.jambotron a
+{
+    color: white;
+    text-decoration: none;
+    
+}
+.btn
+{
+    padding: 15px 22px;
+}
+.pbtom
+{
+    padding-bottom: 30px;
+}
+.led
+{
+    width: 90%;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+    outline: none;
+}
+.lad
+{
+    width: 90%;
+    height: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+input:focus
+{
+    
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+}
+.imagefile
+{
+    margin-top: 20px;
+    margin-left: 470px;
+    
+}
+#canvas
+{
+    height: 400px;
+    width: 400px;
+    background: #ececec;
+    margin:auto;
+    
+}
